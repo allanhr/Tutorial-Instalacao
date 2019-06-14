@@ -45,7 +45,7 @@ sudo apt-get install --no-install-recommends libpq-dev -y
 sudo apt-get install --no-install-recommends libjpeg-dev -y
 sudo apt-get install --no-install-recommends nodejs -y
 sudo apt-get install --no-install-recommends npm -y
-suto apt-get install --no-install-recommends python3-pypdf2
+sudo apt-get install --no-install-recommends python3-pypdf2
 sudo apt-get install node-less -y
 sudo npm install -g less
 sudo ln -s /usr/bin/nodejs /usr/bin/node
@@ -54,7 +54,7 @@ sudo ln -s /usr/bin/nodejs /usr/bin/node
 echo "==== Instalando dependências da Localização Brasileira ===="
 sudo apt-get install --no-install-recommends python-libxml2 -y
 sudo apt-get install --no-install-recommends libxmlsec1-dev -y
-sudo apt-get install --no-install-recommends python-openssl -y
+sudo apt-get install --nFo-install-recommends python-openssl -y
 sudo apt-get install --no-install-recommends python-cffi -y
 sudo apt-get install --no-install-recommends libxmlsec1-opensslopenssl
 echo "==== Instalando dependências do WKHTMLTOX ===="
